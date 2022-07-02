@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Asaf, my friends call me Asi,
-- 👀 I’m interested in finding a job as a  Junior full-stack developer :)
+- 👀 I’m a full-stack developer :)
 - 📫 How to reach me- asaf89@gmail.com ...
 
 <!---
